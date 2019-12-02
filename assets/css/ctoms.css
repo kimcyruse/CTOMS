@@ -1,0 +1,22 @@
+body {
+    font-family: "Montserrat", "Avenir";
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+      width: 100%;
+  }
+
+  div {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 420px;
+    height: 800px;
+    text-align: center;
+    float: left;
+    margin: 1.66%;
+    float: left;
+
+  }
